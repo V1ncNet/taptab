@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaffee",
+    "price": 0.8
+  },
+  {
+    "name": "Milchkaffee",
+    "price": 1
+  },
+  {
+    "name": "Großer Latte",
+    "price": 1.2
+  },
+  {
+    "name": "Hackerbrause",
+    "price": 1.5
+  },
+  {
+    "name": "Limo",
+    "price": 1.1
+  },
+  {
+    "name": "Riegel",
+    "price": 0.8
+  },
+  {
+    "name": "Riegel",
+    "price": 0.6
+  },
+  {
+    "name": "Riegel",
+    "price": 0.5
+  },
+  {
+    "name": "Riegel",
+    "price": 0.3
+  },
+  {
+    "name": "Bagel",
+    "price": 2.3
+  },
+  {
+    "name": "Brötchen",
+    "price": 1.4
+  },
+  {
+    "name": "Muffin",
+    "price": 1.2
+  },
+  {
+    "name": "Kuchen",
+    "price": 1
+  }
+]
